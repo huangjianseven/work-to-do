@@ -10,7 +10,7 @@ tags:
 ---
 Today's Task
 
-- [x] Write an R package.
-- [ ] Write a book.
-- [ ] ...
-- [ ] Profit!
+- [x] 新创TODO的Blogdown
+- [ ] 改完手上所有的作业
+- [ ] 申请学院的虚拟机并安装配置
+
